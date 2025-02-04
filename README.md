@@ -1,4 +1,4 @@
-Hi 👋 My name is pry0rity - aka will.mcm
+Hi 👋 My name is pry0rity - aka Will McMullen
 ========================================
 
 Performance Advocate & Sr. PMM @getsentry
