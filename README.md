@@ -7,8 +7,7 @@ Performance Advocate & Sr. PMM @getsentry
 ex-dev working to make performance accessible to everyone.
 
 * 🌍  I'm based in San Francisco
-* ✉️  You can contact me at [william.mcmullen@sentry.io](mailto:william.mcmullen@sentry.io)
-* 🚀  I'm currently working on [Performance, Insights, and Profilling](http://www.setnry.io/performance)
+* 🚀  I'm currently working on [Tracing, Profilling, and Insights](http://www.setnry.io/performance)
 * 🤝  I'm open to collaborating on sponsored projects & optimization success stories
 
 <a href="https://www.x.com/pry0rity" target="_blank" rel="noreferrer"><img
