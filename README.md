@@ -1,14 +1,12 @@
 Hi 👋 My name is pry0rity - aka Will McMullen
 ========================================
 
-Performance Advocate & Sr. PMM @getsentry
+technical product marketer
 -----------------------------------------
 
-ex-dev working to make performance accessible to everyone.
-
-* 🌍  I'm based in San Francisco
-* 🚀  I'm currently working on [Tracing, Profilling, and Insights](http://www.setnry.io/performance)
-* 🤝  I'm open to collaborating on sponsored projects & optimization success stories
+* 🌍  San Francisco // Global
+* 🚀  [Gitpod](https://www.gitpod.io/)
+* 🤝  Let's chat - always looking to collab on OSS & success stories!
 
 <a href="https://www.x.com/pry0rity" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pry0rity?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
